@@ -1,9 +1,9 @@
 {
-  "annus": 2024,
-  "patria": "ecu",
-  "lingua": "spa",
-  "universitas": "www.uce.edu.ec",
-  "facultas": "uce.edu.ec/web/fcm",
-  "repositorium": "dspace.uce.edu.ec",
-  "descriptio": "Facultad de Ciencias Médicas / Universidad Central del Ecuador / Ecuador"
+  "year": 2024,
+  "description": "Facultad de Ciencias Médicas / Universidad Central del Ecuador / Ecuador",
+  "iso_country": "ecu",
+  "iso_language": "spa",
+  "url_university": "https://www.uce.edu.ec/",
+  "url_school": "https://uce.edu.ec/web/fcm",
+  "url_repository": "https://www.dspace.uce.edu.ec/"
 }
